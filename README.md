@@ -1,1 +1,3 @@
 # mydiary
+
+run main.cpp
